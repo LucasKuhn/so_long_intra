@@ -1,16 +1,16 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   misc.c                                             :+:      :+:    :+:   */
+/*   misc_bonus.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: lalex-ku <lalex-ku@42sp.org.br>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/11/29 22:04:45 by lalexk-ku         #+#    #+#             */
-/*   Updated: 2022/01/22 17:05:10 by lalex-ku         ###   ########.fr       */
+/*   Updated: 2022/01/31 11:05:20 by lalex-ku         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "so_long.h"
+#include "so_long_bonus.h"
 
 // This is just an alias to avoid writing mlx_put_image_to_window
 void	print_tile(t_game *game, void *sprite, int x, int y)
